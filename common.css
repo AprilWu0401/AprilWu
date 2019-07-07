@@ -182,7 +182,7 @@ footer a:hover {
 .nav {
 	position: fixed; top: 0; right: 0; z-index: 20000;
 	width: 90vw; height: 90vh;
-	background-color: #ffe132;
+	background-color: #69667B;
 	transform: translate3d(100vw,-100vh,0);
 	transition: transform 0.5s;
 }
