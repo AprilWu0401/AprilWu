@@ -102,15 +102,15 @@ ul.horizontal li {
 /* Links */
 
 main a {
-	box-shadow: 0 -0.25em 0 #ffe132 inset;
+	box-shadow: 0 -0.25em 0 #69667B inset;
 	transition: none;
 }
 footer a {
-  box-shadow: 0 0 0 #ffe132 inset;
+  box-shadow: 0 0 0 #69667B inset;
 }
 main a:hover,
 footer a:hover {
-	box-shadow: 0 -1.2em 0 #ffe132 inset;
+	box-shadow: 0 -1.2em 0 #69667B inset;
 	transition: box-shadow 0.1s linear, color 0.25s linear;
 }
 
@@ -630,12 +630,12 @@ figcaption {
 p.popup-close {
 	display: inline-block;
 	font-weight: 500;
-	box-shadow: 0 -0.25em 0 #ffe132 inset;
+	box-shadow: 0 -0.25em 0 #69667B inset;
 	cursor: pointer;
 	transition: box-shadow 0.25s;
 }
 p.popup-close:hover {
-	box-shadow: 0 -1.25em 0 #ffe132 inset;
+	box-shadow: 0 -1.25em 0 #69667B inset;
 }
 p.popup-close::before {
 	content: '- ';
@@ -689,7 +689,7 @@ p.popup-close::before {
 	display: block;
 	position: fixed; top: 100%; right: 2rem; z-index: 10000;
 	width: 5rem; height: 5rem; margin-top: -9rem; border-radius: 2.5rem;
-	background: #ffe132;
+	background: #69667B;
 	text-align: center;
 }
 .special-button span {
@@ -708,7 +708,7 @@ p.popup-close::before {
 .progressbar {
 	position: fixed; top: 0; left: 0; z-index: 1;
 	height: 0.35rem; width: 0;
-	background: #ffe132;
+	background: #69667B;
 	transition: width 0.1s linear;
 }
 
@@ -795,7 +795,7 @@ https://flickity.metafizzy.co
 
 body #d12r_cookienotice {
 	right: auto; left: 2vw;
-	background-color: #ffe132;
+	background-color: #69667B;
 	color: #000 !important;
 }
 body #d12r_cookienotice a {
