@@ -102,15 +102,15 @@ ul.horizontal li {
 /* Links */
 
 main a {
-	box-shadow: 0 -0.25em 0 #3399CC inset;
+	box-shadow: 0 -0.25em 0 #E0A1C3 inset;
 	transition: none;
 }
 footer a {
-  box-shadow: 0 0 0 #3399CC inset;
+  box-shadow: 0 0 0 #E0A1C3 inset;
 }
 main a:hover,
 footer a:hover {
-	box-shadow: 0 -1.2em 0 #3399CC inset;
+	box-shadow: 0 -1.2em 0 #E0A1C3 inset;
 	transition: box-shadow 0.1s linear, color 0.25s linear;
 }
 
@@ -182,7 +182,7 @@ footer a:hover {
 .nav {
 	position: fixed; top: 0; right: 0; z-index: 20000;
 	width: 90vw; height: 90vh;
-	background-color: #3399CC;
+	background-color: #E0A1C3;
 	transform: translate3d(100vw,-100vh,0);
 	transition: transform 0.5s;
 }
@@ -408,7 +408,7 @@ body > footer.front-page a {
 
 .overview--news .teaser-content {
 	padding: 1.5rem 2rem;
-	background-color: #3399CC;
+	background-color: #E0A1C3;
 }
 .overview--news figure+.teaser-content {
 	background-color: #000;
@@ -416,7 +416,7 @@ body > footer.front-page a {
 }
 .teaser--calendar {
 	padding: 1.175rem 1.5rem;
-	background-color: #3399CC;
+	background-color: #E0A1C3;
 }
 .overview--news .teaser-content a,
 .teaser--calendar a {
@@ -427,10 +427,10 @@ body > footer.front-page a {
 	box-shadow: 0 -1.2em 0 #fff inset;	
 }
 .overview--news figure+.teaser-content a {
-	box-shadow: 0 -0.25em 0 #3399CC inset;
+	box-shadow: 0 -0.25em 0 #E0A1C3 inset;
 }
 .overview--news figure+.teaser-content a:hover {
-	box-shadow: 0 -1.2em 0 #3399CC inset;	
+	box-shadow: 0 -1.2em 0 #E0A1C3 inset;	
 	color: #000;
 }
 
@@ -448,7 +448,7 @@ body > footer.front-page a {
 
 .tinted .content {
 	padding: 6vw;
-	background-color: #3399CC;
+	background-color: #E0A1C3;
 	font-size: 1.5rem; line-height: 1.5;
 }
 @media screen and ( min-width: 640px ) {
@@ -543,7 +543,7 @@ figcaption {
 .filter {
 	position: fixed; top: 0; left: 0; z-index: 10;
 	height: 100%; width: 30rem; max-width: 90vw;
-	background-color: #3399CC;
+	background-color: #E0A1C3;
 	transform: translate3d(-100%,0,0);
 	transition: transform 0.25s;
 }
@@ -570,7 +570,7 @@ figcaption {
 	position: fixed; top: 50%; left: 0; z-index: 20;
 	padding: 0.75rem 1rem;
 	transform: rotate(-90deg); transform-origin: 0 0;
-	background-color: #3399CC;
+	background-color: #E0A1C3;
 	font-weight: 500;
 	cursor: pointer;
 }
@@ -616,7 +616,7 @@ figcaption {
 	content: ''; display: block;
 	position: absolute; top: 50%; left: 0;
 	width: 100%; height: 0.4rem;
-	background-color: #3399CC;
+	background-color: #E0A1C3;
 	transform: translate3D(0,-50%,0) rotate(-45deg);
 }
 .popup-close-icon::after {
@@ -630,12 +630,12 @@ figcaption {
 p.popup-close {
 	display: inline-block;
 	font-weight: 500;
-	box-shadow: 0 -0.25em 0 #3399CC inset;
+	box-shadow: 0 -0.25em 0 #E0A1C3 inset;
 	cursor: pointer;
 	transition: box-shadow 0.25s;
 }
 p.popup-close:hover {
-	box-shadow: 0 -1.25em 0 #3399CC inset;
+	box-shadow: 0 -1.25em 0 #E0A1C3 inset;
 }
 p.popup-close::before {
 	content: '- ';
@@ -689,7 +689,7 @@ p.popup-close::before {
 	display: block;
 	position: fixed; top: 100%; right: 2rem; z-index: 10000;
 	width: 5rem; height: 5rem; margin-top: -9rem; border-radius: 2.5rem;
-	background: #3399CC;
+	background: #E0A1C3;
 	text-align: center;
 }
 .special-button span {
@@ -708,7 +708,7 @@ p.popup-close::before {
 .progressbar {
 	position: fixed; top: 0; left: 0; z-index: 1;
 	height: 0.35rem; width: 0;
-	background: #3399CC;
+	background: #E0A1C3;
 	transition: width 0.1s linear;
 }
 
@@ -795,7 +795,7 @@ https://flickity.metafizzy.co
 
 body #d12r_cookienotice {
 	right: auto; left: 2vw;
-	background-color: #3399CC;
+	background-color: #E0A1C3;
 	color: #000 !important;
 }
 body #d12r_cookienotice a {
