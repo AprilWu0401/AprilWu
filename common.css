@@ -668,11 +668,11 @@ p.popup-close::before {
 	background: transparent;
 }
 .flickity-prev-next-button.previous {
-	cursor: url(../pic/arrow-left.svg), pointer;
+	cursor: url(pic/arrow-left.svg), pointer;
 }
 .flickity-prev-next-button.next {
 	left: 50%;
-	cursor: url(../pic/arrow-right.svg), pointer;
+	cursor: url(pic/arrow-right.svg), pointer;
 }
 .flickity-button-icon {
 	display: none;
